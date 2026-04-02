@@ -1,0 +1,16 @@
+export const services = [
+  { id: 1, title: "Limpieza Fachada", icon: "🧼", category: "Altura" },
+  { id: 2, title: "Pintura en Fachada", icon: "🎨", category: "Altura" },
+  { id: 3, title: "Hidrolavado Fachada", icon: "🌊", category: "Altura" },
+  { id: 4, title: "Instalación Puntos de Anclajes", icon: "⚓", category: "Seguridad" },
+  { id: 5, title: "Pulido de Metales", icon: "✨", category: "Mantenimiento" },
+  { id: 6, title: "Reparación de Sellos", icon: "🩹", category: "Mantenimiento" },
+  { id: 7, title: "Prevención de Riesgos", icon: "🛡️", category: "Asesoría" },
+  { id: 8, title: "Lavado/Decapado de Pisos", icon: "🧹", category: "Limpieza" },
+  { id: 9, title: "Lavado de Alfombras", icon: "🧶", category: "Limpieza" },
+  { id: 10, title: "Impermeabilizante", icon: "☔", category: "Mantenimiento" },
+  { id: 11, title: "Espacios Confinados", icon: "🕳️", category: "Especializado" },
+  { id: 12, title: "Instalación Pinchos Palomas", icon: "🐦", category: "Especializado" },
+  { id: 13, title: "Estructuras (Retiro/Instalación)", icon: "🏗️", category: "Montaje" },
+  { id: 14, title: "Montaje Torres Alta Tensión", icon: "⚡", category: "Montaje" },
+];
